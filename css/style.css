@@ -1,0 +1,35 @@
+  #p1, #p2, #p3, #p4 {
+	  height: 100vh; 
+	  /* Create the parallax scrolling effect */
+	  background-attachment: fixed;
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  background-size: cover;
+  }
+
+
+  #p1 {
+	  background-image: url("../images/blooming-d.jpg");
+  }
+  #p2 {
+	  background-image: url("../images/botanicgarden-d.jpg");
+  }
+  #p3 {
+	  background-image: url("../images/botanic-d.jpg");
+  }
+  #p4 {
+	  background-image: url("../images/bray-d.jpg");
+  }
+  #logo{
+	  position:absolute;
+	  top:30%;
+	  color:black;
+	  font-size:5em;
+	  left:50%;
+	  transform:translate(-50%,0);
+	  text-align:center;
+	  background-color:rgba(222,222,222,0.35);
+	  border-radius:20px;
+	  padding:30px;
+  }
+
