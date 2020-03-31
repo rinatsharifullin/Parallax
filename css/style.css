@@ -12,7 +12,11 @@
 	  background-image: url("../images/blooming-d.jpg");
   }
   #p2 {
-	  background-image: url("../images/botanicgarden-d.jpg");
+	  background-image: url("../images/myteam1.jpg");
+	  width:300px;
+	  height:300px;
+	  margin:auto;
+	  border-radius:50%;
   }
   #p3 {
 	  background-image: url("../images/botanic-d.jpg");
